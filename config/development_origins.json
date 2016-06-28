@@ -1,0 +1,6 @@
+{
+  "blocked_origins": [
+    "localhost",
+    "example.com"
+  ]
+}
